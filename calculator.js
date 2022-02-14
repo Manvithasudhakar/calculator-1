@@ -6,6 +6,8 @@ function formtable()
     {
         if(i%3==1)
         { 
+
+            
             document.write("<tr>")
         }
         document.write("<td>",i,"</td>")
